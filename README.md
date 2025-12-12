@@ -36,7 +36,7 @@ BCAI solves them **at the protocol level**, not with patches or bolt-ons.
 Identity is not an application feature.  
 It is a **first-block requirement**.
 
-Every participant is verified from inception, creating a single source of truth **without surveillance or data exposure**.
+Every participant is biometrically verified at inception, creating a single source of truth without surveillance or data exposure.
 
 ---
 
