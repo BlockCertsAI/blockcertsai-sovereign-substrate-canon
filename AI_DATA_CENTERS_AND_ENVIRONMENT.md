@@ -2,16 +2,19 @@
 
 ## The Problem: Centralized AI Is Energy Intensive
 
-Modern AI data centers consume enormous amounts of electricity.
-Large language models, analytics pipelines, identity verification services, and continuous monitoring systems are typically hosted in centralized cloud facilities that run 24/7.
+## This Is Not an Efficiency Argument
 
-These hyperscale data centers require:
-- constant power draw
-- heavy cooling infrastructure
-- redundant compute cycles
-- continuous data movement
+This explanation does not claim that AI data centers become more efficient.
 
-This has become one of the largest environmental stresses created by the modern internet.
+It explains why centralized AI data centers become structurally unnecessary.
+
+The distinction matters:
+- Efficiency assumes the existing model remains intact.
+- Structural change removes the conditions that make the model necessary.
+
+BlockCertsAI does not optimize centralized AI infrastructure.
+It replaces the architectural patterns that require it.
+
 
 ---
 
