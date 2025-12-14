@@ -32,7 +32,7 @@ On BlockCertsAI (BCAI), **BCERT functions the same way** — except the “venue
 
 BCERT has a maximum supply of **2.1 billion tokens** and is **not consumed through use**. Instead, BCERT functions as **recyclable access capital**: it is held by individuals and enterprises to unlock authenticated participation in the platform.
 
-When services are used, **BCERT is converted into INK**, the platform’s metering unit. **INK is consumed based on actual usage** — similar to electricity or compute — while BCERT remains reusable as long-term access capital.
+When services are used, **BCERT is converted into INK**, the platform’s metering unit. **INK is consumed based on actual usage** — similar to electricity — while BCERT remains reusable as long-term access capital.
 
 This creates a **streaming utility economy**, not a speculative one.  
 There are **no subscriptions, no gas fees, no staking, and no lockups**.
