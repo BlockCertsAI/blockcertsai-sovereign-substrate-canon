@@ -11,7 +11,7 @@ Identity is proven **once**, at block zero, and never again.
 - No identity theft economy  
 
 **This is not another chain.**  
-**It replaces Web2 centralization and Web3 fragmentation with a Proof Economy built on protocol-level verification.**
+**It’s the foundation that replaces Web2 centralization and Web3 fragmentation with a Proof Economy that is built on protocol-level verification.**
 
 ---
 
