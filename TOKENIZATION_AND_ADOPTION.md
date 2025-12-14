@@ -15,11 +15,9 @@ The confusion arises not from tokenization itself, but from the lack of infrastr
 
 A useful analogy is a physical venue that requires tokens to use its services.
 
-You exchange currency for tokens.
-Those tokens grant access to specific capabilities inside the system.
-Usage determines value.
+You exchange currency for tokens. Those tokens grant access to specific capabilities inside the venue. How much you use the services determines the cost.
 
-On BlockCertsAI (BCAI), BCERT functions the same way — except the “venue” is a global digital infrastructure, and the services are enterprise-grade capabilities such as:
+On BlockCertsAI (BCAI), **BCERT functions the same way** — except the “venue” is a global, authenticated digital infrastructure, and the services are enterprise-grade capabilities such as:
 
 - encrypted identity and data vaults  
 - secure messaging and coordination  
@@ -30,10 +28,16 @@ On BlockCertsAI (BCAI), BCERT functions the same way — except the “venue” 
 - real-world asset representation  
 - agentic, authenticated AI  
 
-BCERT provides access.
-It converts into metered utility, charging only for what is actually used.
+**BCERT provides access.** It is the fixed-supply access and participation token of the BlockCertsAI **Proof Economy**.
 
-This is usage-based utility, not speculation.
+BCERT has a maximum supply of **2.1 billion tokens** and is **not consumed through use**. Instead, BCERT functions as **recyclable access capital**: it is held by individuals and enterprises to unlock authenticated participation in the platform.
+
+When services are used, **BCERT is converted into INK**, the platform’s metering unit. **INK is consumed based on actual usage** — similar to electricity or compute — while BCERT remains reusable as long-term access capital.
+
+This creates a **streaming utility economy**, not a speculative one.  
+There are **no subscriptions, no gas fees, no staking, and no lockups**.
+
+Cost is proportional to real activity, and participation is limited to authenticated actors by design.
 
 ---
 
