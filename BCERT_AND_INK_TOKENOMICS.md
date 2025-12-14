@@ -26,7 +26,8 @@ BCERT is the **foundational token** of the BlockCertsAI platform.
 
 - Maximum supply: **2.1 billion BCERT**
 - Fixed supply
-- Not consumed through usage
+- **BCERT exchanges for 100,000 INK**
+- Recycled after use (not consumed)
 - Held by individuals, enterprises, and institutions
 
 BCERT represents **access capital** to the authenticated infrastructure.
